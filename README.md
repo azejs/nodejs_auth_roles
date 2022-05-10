@@ -18,6 +18,6 @@ j'ai implémenté un modèle de sécurité pour empêcher de supprimer les utili
 
 nous faisons de la sécurité une partie intégrante de la mise en œuvre de chaque route .
 # Clonez ce projet
-git clone https://github.com/azejs/zizo-express-crud.git
-npm install
-npm run dev
+- git clone https://github.com/azejs/nodejs_auth_roles.git
+- npm install
+- npm run dev
