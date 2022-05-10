@@ -17,3 +17,7 @@ façon dont l'utilisateur se connecte, nous voulons qu'il ait accès à différe
 j'ai implémenté un modèle de sécurité pour empêcher de supprimer les utilisateurs  ils n'ont pas accès sauf vous avez été admin .
 
 nous faisons de la sécurité une partie intégrante de la mise en œuvre de chaque route .
+# Clonez ce projet
+git clone https://github.com/azejs/zizo-express-crud.git
+npm install
+npm run dev
